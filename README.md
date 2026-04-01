@@ -13,6 +13,16 @@
 
 - 📫 How to reach me **ra1zzzengpt@gmail.com**
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   5 hrs 14 mins         █████████████████████░░░░   97.64 %
+Cmake         8 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+```
+
+<!--END_SECTION:waka-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ra1zzzen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ra1zzzen" height="30" width="40" /></a>
