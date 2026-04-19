@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [cpp-sorting-visualizer](https://github.com/ra1zzzengpt/cpp-sorting-visualizer)
 
-- 🌱 I’m currently learning **C++, Rust, Python, Go and Qt**
+- 🌱 I’m currently learning **C++, Rust, Python, Go, Git, Linux and Qt**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ra1zzzengpt](https://github.com/ra1zzzengpt)
 
