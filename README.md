@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ra1zzzengpt&label=Profile%20views&color=0e75b6&style=flat" alt="ra1zzzengpt" /> </p>
 
-- 🔭 I’m currently working on [cpp-sorting-visualizer](https://github.com/ra1zzzengpt/cpp-sorting-visualizer)
+- 🔭 I’m currently working on [cpp-file-inspector](https://github.com/ra1zzzengpt/cpp-file-inspector)
 
 - 🌱 I’m currently learning **C++, Rust, Python, Go, Git, Linux and Qt**
 
