@@ -23,6 +23,6 @@ Python        0 mins               ░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ra1zzzengpt&show_icons=true&theme=catppuccin&locale=en&layout=compact" alt="ra1zzzengpt" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ra1zzzengpt&show_icons=true&locale=en&layout=compact" alt="ra1zzzengpt" /></p>
 
 [![GitHub Stats](https://ghstats.dev/api/card?username=ra1zzzengpt\&theme=catppuccin\&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers\&custom_title=Stats\&border_radius=10)](https://github.com/ra1zzzengpt)
