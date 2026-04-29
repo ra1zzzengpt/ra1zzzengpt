@@ -125,23 +125,6 @@ struct Developer {
 
 ---
 
-## 📊 Weekly coding activity
-
-<!--START_SECTION:waka-->
-
-```txt
-C++          12 hrs 0 mins         █████████████████████░░░░░░░░░   70.59%
-CMake        30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░░░░   02.94%
-C            43 mins               █░░░░░░░░░░░░░░░░░░░░░░░░░░░   04.22%
-Rust         3 hrs 24 mins         ██████░░░░░░░░░░░░░░░░░░░░░░░   20.00%
-Python       23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░░░░   02.25%
-Go           0 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░░░░   00.00%
-```
-
-<!--END_SECTION:waka-->
-
----
-
 ## 📈 GitHub stats
 
 <p align="center">
