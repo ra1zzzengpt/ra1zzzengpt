@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=89B4FA&center=true&vCenter=true&width=650&lines=C%2B%2B+%7C+Linux+%7C+CLI+Tools;Learning+systems+programming;Building+projects+instead+of+only+reading+theory;Rust+%7C+Python+%7C+Go+%7C+Qt" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=89B4FA&center=true&vCenter=true&width=650&lines=C%2B%2B+%7C+Linux+%7C+CLI+Tools;Learning+systems+programming;Building+projects+instead+of+only+reading+theory;Rust+%7C+Python" alt="Typing SVG" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ struct Developer {
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cmake,rust,python,go,qt,linux,git,github,bash,vscode,clion" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cmake,rust,python,linux,git,github,bash,clion" alt="Tech stack" />
 </p>
 
 <p align="center">
