@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=89B4FA&center=true&vCenter=true&width=750&lines=C%2B%2B+%7C+Rust+%7C+Linux+%7C+CLI+Tools;Building+client-server+terminal+apps;Learning+systems+programming+by+building;Python+%7C+CMake+%7C+Networking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=89B4FA&center=true&vCenter=true&width=800&lines=C%2B%2B+%7C+Rust+%7C+Linux+%7C+CLI+Tools;Building+client-server+terminal+apps;Learning+systems+programming+by+building;Python+%7C+CMake+%7C+Networking" alt="Typing SVG" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ struct Developer {
 ## 🚀 Current focus
 
 - 🔭 Currently working on **[cli-messanger](https://github.com/ra1zzzengpt/cli-messanger)**
-- 🔐 Building **[password_manager](https://github.com/ra1zzzengpt/password_manager)** in Rust
+- 🔐 Building **[password-manager](https://github.com/ra1zzzengpt/password-manager)** in Rust
 - 🧩 Improving my understanding of **C++ project architecture**
 - 🌐 Learning HTTP, APIs, JSON, and client-server interaction
 - 🐧 Using Linux as my main development environment
@@ -77,6 +77,28 @@ struct Developer {
 
 ---
 
+## 📊 GitHub dashboard
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ra1zzzengpt&show_icons=true&theme=catppuccin_mocha&border_radius=12&hide_border=false&include_all_commits=true&rank_icon=github&custom_title=ra1zzzengpt%27s%20GitHub%20Stats" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1zzzengpt&layout=compact&langs_count=8&theme=catppuccin_mocha&border_radius=12&hide_border=false&custom_title=Most%20Used%20Languages" alt="Top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1zzzengpt&layout=donut&langs_count=6&theme=catppuccin_mocha&border_radius=12&hide_border=false&custom_title=Language%20Balance" alt="Language balance" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="220" src="https://github-readme-stats.vercel.app/api?username=ra1zzzengpt&show_icons=true&theme=catppuccin_mocha&border_radius=12&hide_border=false&hide_rank=true&custom_title=Development%20Overview" alt="Development overview" />
+  </a>
+</p>
+
+---
+
 ## 📌 Featured projects
 
 <table>
@@ -88,18 +110,18 @@ struct Developer {
       </p>
       <p align="center">
         <a href="https://github.com/ra1zzzengpt/cli-messanger">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ra1zzzengpt&repo=cli-messanger&theme=catppuccin_mocha&border_radius=12" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ra1zzzengpt&repo=cli-messanger&theme=catppuccin_mocha&border_radius=12&show_owner=false&description_lines_count=2" alt="cli-messanger" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔐 password_manager</h3>
+      <h3 align="center">🔐 password-manager</h3>
       <p align="center">
         A Rust CLI utility for generating and working with passwords from the terminal.
       </p>
       <p align="center">
-        <a href="https://github.com/ra1zzzengpt/password_manager">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ra1zzzengpt&repo=password_manager&theme=catppuccin_mocha&border_radius=12" />
+        <a href="https://github.com/ra1zzzengpt/password-manager">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ra1zzzengpt&repo=password-manager&theme=catppuccin_mocha&border_radius=12&show_owner=false&description_lines_count=2" alt="password-manager" />
         </a>
       </p>
     </td>
@@ -112,7 +134,7 @@ struct Developer {
       </p>
       <p align="center">
         <a href="https://github.com/ra1zzzengpt/cpp-file-inspector">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ra1zzzengpt&repo=cpp-file-inspector&theme=catppuccin_mocha&border_radius=12" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ra1zzzengpt&repo=cpp-file-inspector&theme=catppuccin_mocha&border_radius=12&show_owner=false&description_lines_count=2" alt="cpp-file-inspector" />
         </a>
       </p>
     </td>
@@ -123,8 +145,30 @@ struct Developer {
       </p>
       <p align="center">
         <a href="https://github.com/ra1zzzengpt/cpp-http-client">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ra1zzzengpt&repo=cpp-http-client&theme=catppuccin_mocha&border_radius=12" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ra1zzzengpt&repo=cpp-http-client&theme=catppuccin_mocha&border_radius=12&show_owner=false&description_lines_count=2" alt="cpp-http-client" />
         </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 cpp-sorting-visualizer</h3>
+      <p align="center">
+        Console sorting visualizer with ASCII graphics, benchmark mode, logging and config.
+      </p>
+      <p align="center">
+        <a href="https://github.com/ra1zzzengpt/cpp-sorting-visualizer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ra1zzzengpt&repo=cpp-sorting-visualizer&theme=catppuccin_mocha&border_radius=12&show_owner=false&description_lines_count=2" alt="cpp-sorting-visualizer" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧪 More experiments soon</h3>
+      <p align="center">
+        Small projects for learning C++, Rust, Linux, Qt, networking and cybersecurity basics.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/status-learning_by_building-89B4FA?style=for-the-badge" alt="Learning by building" />
       </p>
     </td>
   </tr>
@@ -132,16 +176,19 @@ struct Developer {
 
 ---
 
-## 📈 GitHub stats
+## 🧩 Project cards
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ra1zzzengpt&show_icons=true&theme=catppuccin_mocha&border_radius=12&hide_border=false" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ra1zzzengpt&layout=compact&theme=catppuccin_mocha&border_radius=12&hide_border=false" alt="Top languages" />
+  <a href="https://github.com/ra1zzzengpt/cli-messanger">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ra1zzzengpt&repo=cli-messanger&theme=transparent&border_radius=12&show_owner=true" alt="cli-messanger transparent card" />
+  </a>
 </p>
 
+<br />
+
 <p align="center">
-  <a href="https://github.com/ra1zzzengpt">
-    <img src="https://ghstats.dev/api/card?username=ra1zzzengpt&theme=catppuccin&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers&custom_title=Stats&border_radius=10" alt="GitHub Stats" />
+  <a href="https://github.com/ra1zzzengpt/password-manager">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ra1zzzengpt&repo=password-manager&theme=transparent&border_radius=12&show_owner=true" alt="password-manager transparent card" />
   </a>
 </p>
 
