@@ -95,6 +95,8 @@ struct Developer {
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="220" src="https://github-readme-stats.vercel.app/api?username=ra1zzzengpt&show_icons=true&theme=catppuccin_mocha&border_radius=12&hide_border=false&hide_rank=true&custom_title=Development%20Overview" alt="Development overview" />
   </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ra1zzzengpt&theme=catppuccin_mocha&border_radius=12" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
