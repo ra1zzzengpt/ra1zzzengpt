@@ -13,10 +13,10 @@ My current focus is modern **C++23 on Linux**, software architecture, networking
 
 ### Stack
 
-`C++23` · `CMake` · `Qt` · `FTXUI` · `libcurl` · `libsodium` · `nlohmann/json` · `Linux` · `GitHub Actions`
+`C++23` · `CMake` · `Qt` · `FTXUI` · `libcurl` · `libsodium` · `nlohmann/json` · `Linux` · `GitHub Actions` · `Git` · `tgbot-cpp` · `POSIX sockets` · `Boost.Asio` · `Boost.Beast`
 
 ### Currently exploring
 
-`Networking / POSIX sockets` · `Operating systems` · `Reverse engineering` · `Cybersecurity` · `Rust`
+`Networking` · `Operating systems` · `Reverse engineering` · `Cybersecurity`
 
 > build → break → understand → rebuild
